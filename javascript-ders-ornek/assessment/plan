@@ -1,0 +1,62 @@
+Sohbet
+	tanışma
+	
+	kendinden bahset
+		yaptığın işler
+		tecrübeler
+		verdiğin eğitimler
+		ne zamandır vermediğin
+		
+	ne iş yaparlar
+	seviyeleri ne
+	javascript ile ne yapacaklar
+	web ile ile ilgili konuşma
+	browser ve dertleri
+	javascript ile ilgili konuşma
+	
+html
+	VScode'dan bahset
+
+	html dosya oluşturma, editleme
+	
+	01-html boilerplate 
+		tagler nedir
+		
+	02-html tag tablosunu inceleme
+		tag kullanarak accessibility -ulaşılabilirlik anlat
+	
+	02.1- boilerplate'de js ve css dosyası ekleme.. html içi/dışı.. defer
+	
+	developer tool anlat, 
+		element
+		style 
+			başka siteler ile örnek ver.. element ve stylelar ile oyna
+		console
+		network
+		source
+		disable cache
+		hard reload
+	
+	Dom (document object modelden bahset)
+		dom.gif
+		consoldan objeye bak
+	
+	selectorler
+		class, id, attributes, anlat
+		03-js ile	index
+		04-css ile 
+			önce img2 göster
+		05-after before önemi, hover
+		
+	manipulation (dom)
+	
+	styles css
+		developertool üzerinden stylelara bak
+		css hiyerarşisi 
+			02.1- boilerplate'de
+			inline > html içi > external    
+			son yazılan
+			daha spesifik
+	
+	
+	3d Cube / layout
